@@ -1,0 +1,66 @@
+# Logs
+Logs/
+*.log
+
+# Compiled binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.sln.DotSettings
+
+# Rider IDE
+.idea/
+*.sln.iml
+*.csproj.user
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+dist/
+
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+*.unitypackage
+*.openscene
+
+# Visual Studio specific
+.csproj
+.sln
+.userprefs
+
+# OS specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE specific
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+UserSettings/
+
+# Test results
+TestResults/
+coverage/
